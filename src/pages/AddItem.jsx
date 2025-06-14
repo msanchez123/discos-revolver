@@ -98,7 +98,7 @@ const AddItem = () => {
 
         {/* Imagen: selección de archivo y vista previa */}
         <label>
-          Imagen del disco (debe estar en /src/assets):
+          Imagen del disco (debe estar en /public/assets):
           <input type="file" accept="image/*" onChange={handleFileChange} />
         </label>
 

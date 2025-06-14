@@ -11,7 +11,7 @@ const ItemCard = ({ disco }) => {
       background: "#f9f9f9"
     }}>
       <img
-        src={`/src/assets/${disco.imagen}`}
+        src={`/public/assets/${disco.imagen}`}
         alt={disco.titulo}
         style={{ width: "100%", height: "auto", marginBottom: "10px" }}
       />

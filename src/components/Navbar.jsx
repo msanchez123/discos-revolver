@@ -12,7 +12,7 @@ const Navbar = () => {
       {/* Contenedor para logo y título */}
       <div style={{ display: "inline-block", width: "40%", verticalAlign: "middle" }}>
         <img
-          src={`/src/assets/discosRevolver.png`}
+          src={`/public/assets/discosRevolver.png`}
           alt="Discos Revolver"
           style={{
             width: "12%",
