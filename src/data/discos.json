@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "titulo": "Back in Black",
+    "artista": "AC/DC",
+    "anio": 1980,
+    "genero": "Hard Rock",
+    "precio": 18.99,
+    "stock": 5,
+    "formato": "Vinilo",
+    "disponible": true,
+    "descripcion": "Uno de los álbumes más vendidos de todos los tiempos.",
+    "imagen": "back-in-black.jpg",
+    "reservado": false
+  },
+  {
+    "id": 2,
+    "titulo": "Nevermind",
+    "artista": "Nirvana",
+    "anio": 1991,
+    "genero": "Grunge",
+    "precio": 21.5,
+    "stock": 2,
+    "formato": "CD",
+    "disponible": true,
+    "descripcion": "Álbum icónico que marcó los 90s.",
+    "imagen": "nevermind.jpeg",
+    "reservado": false
+  },
+  {
+    "id": 3,
+    "titulo": "Runnin' Wild",
+    "artista": "Airbourne",
+    "anio": 2007,
+    "genero": "Hard Rock",
+    "precio": 19.99,
+    "stock": 4,
+    "formato": "Vinilo",
+    "disponible": true,
+    "descripcion": "Debut explosivo de la banda australiana con pura energía rockera.",
+    "imagen": "runnin-wild.JPG",
+    "reservado": false
+  },
+  {
+    "id": 4,
+    "titulo": "L.A.M.F",
+    "artista": "Johnny Thunders & The Heartbreakers",
+    "anio": 1977,
+    "genero": "Punk Rock",
+    "precio": 17.5,
+    "stock": 3,
+    "formato": "Vinilo",
+    "disponible": true,
+    "descripcion": "Disco clásico del punk neoyorquino lleno de energía y actitud callejera.",
+    "imagen": "lamf.jpg",
+    "reservado": false
+  },
+  {
+    "id": 5,
+    "titulo": "Carbonas",
+    "artista": "Carbonas",
+    "anio": 2008,
+    "genero": "Garage Punk",
+    "precio": 15.99,
+    "stock": 6,
+    "formato": "Vinilo",
+    "disponible": true,
+    "descripcion": "Rápido, crudo y directo: punk de alto voltaje desde Atlanta.",
+    "imagen": "carbonas.jpeg",
+    "reservado": false
+  }
+]
