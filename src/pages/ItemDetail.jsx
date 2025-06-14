@@ -74,7 +74,7 @@ const ItemDetail = () => {
   return (
     <div style={{ padding: "20px" }}>
       {/* Imagen del disco */}
-      <img src={`/public/assets/${disco.imagen}`} alt={disco.titulo} style={{ width: "300px", height: "auto", marginBottom: "20px" }} />
+      <img src={`/assets/${disco.imagen}`} alt={disco.titulo} style={{ width: "300px", height: "auto", marginBottom: "20px" }} />
 
       {/* Vista o edición */}
       {!editando ? (

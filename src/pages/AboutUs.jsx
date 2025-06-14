@@ -13,7 +13,7 @@ const AboutUs = () => {
 
                 También ofremos a todos aquellos melómanos que pasen a visitarnos una amplia selección de vinilos y cd’s de segunda mano en constante renovación, seguro que darás con alguna de las joyas que andabas persiguiendo.</p>
             <img
-                src={`/public/assets/tiendaDiscos.JPG`}
+                src={`/assets/tiendaDiscos.JPG`}
                 alt="tiendaDiscos"
                 style={{ width: "100%", height: "auto", marginBottom: "10px", margin:"auto" }}
             />
