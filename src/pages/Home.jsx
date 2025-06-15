@@ -13,7 +13,7 @@ const Home = () => {
       </p>
 
       <img
-        src={`/src/assets/tiendaDiscos2.jpg`}
+        src={`/assets/tiendaDiscos2.jpg`}
         alt="tiendaDiscos2"
         style={{ width: "70%", height: "auto", marginBottom: "10px", margin: "auto" }}
       />
