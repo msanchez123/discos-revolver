@@ -1,21 +1,21 @@
 const AboutUs = () => {
     return (
-        <div style={{ padding: "20px", textAlign: "center" }}>
-            <h1> Bienvenido a Discos Revolver </h1>
-            <p style={{ fontSize: "18px", marginTop: "10px" }}>
-                Discos Revolver es mucho más que una tienda de música. Es un espacio para los verdaderos amantes del sonido auténtico.
-            </p>
-            <p style={{ fontSize: "16px", marginTop: "10px" }}>
-                Aquí encontrarás una selección única de <strong>rock, punk, metal, jazz, soul, oldies, indie, garage</strong> y mucho más. Desde clásicos eternos hasta joyas underground.
-            </p>
-            <p style={{ fontSize: "16px", marginTop: "10px" }}>
-                Explora nuestro catálogo, descubre nuevos sonidos, añade tus discos favoritos y mantén viva la cultura del vinilo y el CD
-            </p>
+        <div>
+            <h1>Sobre Nosotros</h1>
+            <h2>La mejor selección de vinilos y cd’s en internet</h2>
+            <p>Desde 1999 en el mundo de la música, buscando e importando las últimas novedades en vinilo e intentando ampliar y enriquecer nuestro catálogo de discos día tras día. En nuestra oferta musical siempre podrás encontrar títulos de coleccionismo de estilos como el jazz, el soul, oldies, indie, punk o el garage, siempre cuidando secciones como la de música country, el southern o lo mejor del rock progresivo.<br></br><br></br>
 
+                No pretendemos tener todos los productos del mercado, sino una selección de lo que bajo nuestro punto de vista son las referencias más representativas e importantes de cada estilo, eso sí, sin olvidarnos nunca de los últimas publicaciones y de muchos sellos que consideramos puedan ser interesantes para nuestros clientes.<br></br><br></br>
+
+                Poner a tu alcance la mejor colección discográfica en formato físico es nuestra razón de ser.<br></br><br></br>
+
+                El personal que forma la plantilla de Revólver Records está altamente cualificado y posee amplios conocimientos musicales, son el aliado perfecto para encontrar el álbum o la canción que tanto estabas buscando, de todas maneras, si no hallas los discos que buscas, te facilitamos la opción de hacernos el encargo a través de nuestro formulario de contacto y estaremos encantados de rastrearlos por ti, también puedes contactar con nosotros a través de nuestro formulario.<br></br><br></br>
+
+                También ofremos a todos aquellos melómanos que pasen a visitarnos una amplia selección de vinilos y cd’s de segunda mano en constante renovación, seguro que darás con alguna de las joyas que andabas persiguiendo.</p>
             <img
-                src={`/assets/tiendaDiscos2.jpg`}
+                src={`/assets/tiendaDiscos.JPG`}
                 alt="tiendaDiscos"
-                style={{ width: "70%", height: "auto", marginBottom: "10px", margin: "auto" }}
+                style={{ width: "100%", height: "auto", marginBottom: "10px", margin:"auto" }}
             />
         </div>
     );
